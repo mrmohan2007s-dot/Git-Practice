@@ -1,0 +1,22 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+        int maxProfit=0;
+        int minPrice=prices[0];
+        int buyDay=1;
+        int sellDay=1;
+        int minDay=1;
+        for(int i=0;i<prices.length;i++){
+            int profit=prices[i]-minPrice;
+            if(profit>maxProfit){
+                maxProfit=profit;
+                buyDay=minDay;
+                sellDay=i+1;
+            }
+            if(prices[i]<minPrice){
+                minPrice=prices[i];
+                minDay=i+1;
+            }
+        }
+        return maxProfit;
+    }
+}
