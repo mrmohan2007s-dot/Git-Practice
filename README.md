@@ -26,6 +26,7 @@ Build validation test
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/mrmohan2007s-dot/Git-Practice/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/mrmohan2007s-dot/Git-Practice/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -34,5 +35,6 @@ Build validation test
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/mrmohan2007s-dot/Git-Practice/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/mrmohan2007s-dot/Git-Practice/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
