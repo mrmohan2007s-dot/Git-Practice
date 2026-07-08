@@ -23,4 +23,16 @@ Build validation test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/mrmohan2007s-dot/Git-Practice/tree/main/0063-unique-paths-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/mrmohan2007s-dot/Git-Practice/tree/main/0342-power-of-four/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/mrmohan2007s-dot/Git-Practice/tree/main/0342-power-of-four/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/mrmohan2007s-dot/Git-Practice/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
